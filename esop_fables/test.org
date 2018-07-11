@@ -14,8 +14,8 @@ This is useful note.
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
   
-+LATEX: \hfill
-+ATTR_LATEX: :center nil
+#+LATEX: \hfill
+#+ATTR_LATEX: :center nil
 | a | b | c |
 |---+---+---|
 | 1 | 2 | 3 |
