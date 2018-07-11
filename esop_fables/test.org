@@ -1,0 +1,9 @@
+* Note
+#+begin_note
+This is useful note.
+#+end_node
+
+* Links
+  :PROPERTIES:
+  :CUSTOM_ID: links
+  :END:
