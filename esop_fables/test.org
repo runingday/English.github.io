@@ -7,3 +7,17 @@ This is useful note.
   :PROPERTIES:
   :CUSTOM_ID: links
   :END:
+  
+  
+| a | b | c |
+|---+---+---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+  
+#+LATEX: \hfill
+#+ATTR_LATEX: :center nil
+| a | b | c |
+|---+---+---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+
