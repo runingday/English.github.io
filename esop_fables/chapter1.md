@@ -131,4 +131,82 @@ fan的常见性为名词，表“迷、狂热爱好者”或“扇子”。
 本文中，free两次出现。 既为动词，表“释放、使人身自由”；也做形容词，表“自由的”。 free还有一个常用意思，做形容词，表“免费的”、“免除的”。
 
 【本文例句】
-The
+The slave was freed, and the lion was also set free again in the forest. 奴隶被释放了，狮子也回到森林重获自由. 
+
+【点睛例句】
++ duty free 免税的
++ sugar free 无糖的
++ buy one, get one free 买一赠一
+
+### 亮点短语
+【亮点】
+一个用于向他人表达祝贺的句型，多以感叹号结尾。
+【本文例句】
++ Congratulations on your wonderful performance! 恭喜恭喜，演出太美妙了!
++ Congratulations on your admission to Peking University! 恭喜考入北大！
+    * admission 录取
+### * * * * 
+
+2. at first 起初
+【亮点】
+引出【最初发生的事】，暗含【这事后来有了变化】。
+当看到at first 出现时，可预判后面情形一般有变。 
+【本文例句】
++ At first he turned to run, but finding that the lion did not chase him, he turned back and went up to him. 起初他转身就跑，不过在发现狮子并没有来追他后，他转身回到狮子身边
+
+【点睛例句】
++ I didn't like the job at first. 起初我不喜欢这工作
++ At first I was very nervous. 起初我特紧张。
+
+3. keep up with sb/sth 赶上...
+【亮点】
+可以表位移关系的“追赶上”，也可以是抽象的“保持同步、跟上（形势等）”。
+【本文例句】
++ ... if you can keep up with me! 如果你能追上我！
+【点晴例句】
++ keep up with all the changes. 跟上所有变化。
++ Is it really important to keep up with fashion trends? 跟上流行趋势真的重要么？ *trend n. 趋势
+
+### 小词大义
+### with 用...、使用...
+【亮点】
+with在英语中是一个介词，但对应中文，却有着动作"用...、使用..."的含义。
+【本文例句】
++ Be proud of what you do with your natural abilities. 要为你发挥天赋所做的事而骄傲。
+
+【点睛例句】
++ What will you buy with the money? 你会用这笔钱买什么呢？
++ Cut it with the knife. 用刀子切. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
