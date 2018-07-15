@@ -85,3 +85,39 @@ Then the butterfly flew up into the air, carried high and far on the summer wind
 and was never seen by the ant again.
 
 MORAL: Do not judge by appearances.
+
+
+### 熟词生义
+1. whole
+本文中， whole的词性为名词,表“全部、整体“。
+
+[本文例句]
++ in the whole of Greece 在希腊全境
+
+whole的常见词性是形容词,表"整个的、全部的”。
+
+[点睛例句]
++ my whole life 我的一生
++ Forget the whole thing 忘掉整件事儿吧。
+        *  *  *  *
+2. fan
+本文中， fan的词性为动词，表“扇风”。
+
+【本文例句】
++ He felt himself fanned by the wings. 他察觉到被翅膀扇的风吹拂.
+
+fan的常见性为名词，表“迷、狂热爱好者”或“扇子”。
+
+[点睛例句]
+
++ a movie fan 电影迷
++ an electric fun 电风扇
++ He fanned himself with a magazine. 他用杂志给自己扇凉. 
+
+3. win
+
+本文中，win两次出现，既为名词，表“胜利、获胜”; 也做动词,表“赢、获胜”。
+
+[本文例句]
+
++ Congratulations on your win! 恭喜你的获胜
