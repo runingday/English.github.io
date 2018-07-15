@@ -121,3 +121,8 @@ fan的常见性为名词，表“迷、狂热爱好者”或“扇子”。
 [本文例句]
 
 + Congratulations on your win! 恭喜你的获胜
++ It is easy to win when you are bigger and stronger. 当你块头更大更强壮时，取胜是很容易的.
+
+[点睛例句]
++ Ok, you win. 好吧，算你赢（因说服不了对方而同意对方时说的话）
+                       *        *           *              *
