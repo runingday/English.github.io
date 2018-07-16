@@ -196,10 +196,10 @@ protect v.保护
 </pre>
 
 You let the man
-''' who stole your honey '''
+``` who stole your honey ```
 get away (unpunished),
 while (链接词）you direct your anger at me, the person
-''' who takes care of you and(链接词) tries to protect you!
+``` who takes care of you and(链接词) tries to protect you!```
 
 ABC 句子主干，由while连接 （你让那个男人不受惩罚就离开，与此同时你又把怒气都对准了我。
 
