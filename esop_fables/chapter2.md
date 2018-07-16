@@ -80,3 +80,99 @@ The found that even the belly, in its quiet way, was doing necessary work. They 
 
 MORAL: It takes all kinds of people to make human society work.
 
+### 熟词生义
+1. Well
+well在本文中的意思为"(水）井“，作名词.
+【本文例句】
++ He fell into a well. 他掉进了井里
+
+well的其它常见意思有:
+(副词）出色地、好
+(形容词) 身体健康的
+
+【点睛例句】
++ He speak English really well. 他英语说得很好.
++ I'm not very well today. 我今天不太舒服.
+
+### * * * *
+2. bit
+bit常见词性有两个：
+1. 作名词，表"一点点、少许”;
+2. 作动词,是bite(咬）的动词过去式
+  变化为bite-bit-bitten
+ 【本文例句】
+ + A fly bit the head of a bald man. 一只苍蝇咬了光头男人的头.
+ 
+ 【点睛例句】
+ + It's a bit strange. 有点奇怪. 
+ ### * * *
+ 
+3. miss
+miss在本文的意思为“忽略掉、未察觉”，作动词
+【本文例句】
++ While you are trying to learn about the mysteries of heaven, you miss the common things under your feet. 你在努力了解天空奥秘的同时，却忽视了脚下的普通东西。
+
+miss的常见动词意思还有：错过（机会）;想念、惦念
+【点睛例句】
++ miss the chance 错过机会
++ We'll miss you. 我们会想念你的. 
+
+### 亮点短语
+1. look up to sb/sth 抬头看...
+【本文例句】
++ While looking up to the skies, he fell into a well. 仰望天空时，他跌进了井里。
+【亮点】
+可以表“抬头看”这个具体动作，也可以抽象表“钦佩、尊敬、仰慕”。
+
+【点睛例句】
++ We all look up to role models. 我们都钦佩榜样人物。 
+
+### * * * 
+2. take care of ... 照顾；付钱、负责
+【
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
