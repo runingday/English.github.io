@@ -129,7 +129,65 @@ miss的常见动词意思还有：错过（机会）;想念、惦念
 
 ### * * * 
 2. take care of ... 照顾；付钱、负责
-【
+【本文例句】
++ the man who takes care of you 一直照顾你们的人
+
+【亮点】
+take care of 表“照顾”很容易记住,care 本身就是照顾、照料“的意思。 除此之外，短语也可以委婉表达”付钱、负责“的意思。
+【点睛例句】
++ I'll take care of the bill. 我来买单
++ Mike takes care of the management side of the company. 迈克负责公司的管理
+
+### * * *
+3. by mistake 错误地、无意中
+【本文例句】
++ I hurt myself by mistake 我无意中伤了自己。 
+【亮点】
+这个短语最关键点是【无心之过】，虽然出了错，但完全不是故意的。 
+【点睛例句】
++ I took your luggage by mistake。 我不小心错拿了你的行李
++ Sorry, I opened your parcel by mistake. 抱歉，我错开了你的快递包裹。
+
+### * * *
+
+4. On purpose 故意地
+【本文例句】
++ You hurt me on purpose. 你故意伤了我。
+【亮点】
+英语中有复杂的副词可以表示”故意地“，比如deliberately、intentionally,但太难了，有木有。而on purpose或by design这样短小精悍的短语，也是一样的意思，推荐记忆哦。
+【点睛例句】
++ You did it on purpose! 你是故意这么干的！
+
+### 小词大义
+
+#### or 否则
+【本文例句】
++ They all must work together or the body will go to piece. 它们必须通力合作，否则身体就会跨掉.
+【亮点】
+A or B很容易理解是"A或B”的意思。当or作连词连接两个句子时，还可表“否则、如果不...就会”的意思。or的前面有无逗号，均可.
+【点睛例句】
++ He must like you, or he wouldn't keep calling you. 他肯定是喜欢你，不然不会一直打给你。
++ Wear a coat or you will catch a cold. 穿件外套嘛，不然会感冒的。
+
+### 长句分析
+
+<pre> 
+You, who have wished to revenge, even with death, the bite of a tiny insect, see what harm you have done to yourself in the process!
+
+revenge v.报复、复仇 bite n.叮咬、咬
+insect n.昆虫  process n.过程
+
+</pre>
+You, 
+> who have wished to revenge, (even with death,) the bite of a tiny insect,
+see what harm you have done to yourself in the process!
+
+ABC 句子主干
+你看在过程中你都对自己做了什么样的伤害
+
+abc 修饰You {希望对小昆虫的叮咬进行报复的(你）}
+
+(abc) 随着“报复”动作一起发生，伴随修饰语（报复的同时）甚至伴随着死亡
 
 
 
