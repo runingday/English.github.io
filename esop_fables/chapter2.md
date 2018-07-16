@@ -189,7 +189,24 @@ abc 修饰You {希望对小昆虫的叮咬进行报复的(你）}
 
 (abc) 随着“报复”动作一起发生，伴随修饰语（报复的同时）甚至伴随着死亡
 
+<pre> You let the man who stole your honey get away unpunished, while you direct your anger at me, the person who takes care of you and tries to protect you!
 
+unpunished adj.不受惩罚的  direct v. 把...对准
+protect v.保护
+</pre>
+
+You let the man
+''' who stole your honey '''
+get away (unpunished),
+while (链接词）you direct your anger at me, the person
+''' who takes care of you and(链接词) tries to protect you!
+
+ABC 句子主干，由while连接 （你让那个男人不受惩罚就离开，与此同时你又把怒气都对准了我。
+
+abc 修饰部分 1. 偷你蜂蜜的（那个人）
+            2. 照顾并努力保护你的（人）
+
+（abc) 补充说明 （那个人就这么)未受惩罚地（离开）
 
 
 
