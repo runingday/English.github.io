@@ -1,11 +1,11 @@
-# <center> The Big and The Little Fish </center>
+### <center> The Big and The Little Fish </center>
 As a fisherman was pulling in his net from the sea, he noticed that it was full of all sorts of (各种各样的)fish.
 
 The little fish got away through the holes in the net and swam to safety, while the big fish could not get away and were caught.
 
 MORAL: Sometimes it's good to be unimportant.
 
-# <center> The Bird and Her Babies </center>
+### <center> The Bird and Her Babies </center>
 
 A bird had made her nest in a farmer's field, and her babies were almost grown.
 
@@ -21,7 +21,7 @@ One of the young birds heard him, and asked his mother where they should move fo
 
 MORAL: If you need something done properly, do it yourself.
 
-# The Blind Man and the Baby Wolf
+### The Blind Man and the Baby Wolf
 
 A blind man could tell different animals by touching them with his hands.
 
@@ -33,7 +33,7 @@ A baby wolf was brought to him, and he touched it to guess what is was.
 
 MORAL: Evil(罪恶的）的signs are shown early in life.
 
-# The Boasting(吹嘘）Traveler
+### The Boasting(吹嘘）Traveler
 
 A man who had travelled in foreign lands boasted of (吹嘘） the many wonderful and heroic things he had done in the different places he had visited.
 
@@ -46,7 +46,7 @@ He also said that many people saw him do it, and he could call them as witnesses
 MORAL: Stop a boaster(吹牛的人）by putting his words to the test(检验）。
 
 
-# The Boy and the Nettle(荨麻）
+### The Boy and the Nettle(荨麻）
 
 A boy was stung(刺） by a nettle(荨麻)
 
@@ -60,7 +60,7 @@ He ran home and told his mother,
 
 MORAL: Whatever you do, do with all your strength.
 
-# The Boy and the Nuts
+### The Boy and the Nuts
 
 A boy put his hand into a jar full of nuts. 
 
@@ -74,7 +74,18 @@ MORAL: Do not attempt too much at once.
 
 
 
-# 熟词生
+### 熟词生义
+1. sign
+【本文例句】
++ Evil signs are shown early in life. 邪恶的迹象在很小的时候就显现出来了.
+
+本文中, sign作名词，表"迹象、征兆", sign的另一个常见名词意思为”符号、标志“, 常见动词意思为"签字".
+
+【点睛例句】
++ Sign here. 在这里签名.
++ There's no sign of life on Mars. 火星上没生命迹象。
++ /:lvu is the sign language for "I love you".
+这是表"我爱你”的手势语言
 
 
 
