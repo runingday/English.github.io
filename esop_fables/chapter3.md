@@ -21,3 +21,30 @@ One of the young birds heard him, and asked his mother where they should move fo
 
 MORAL: If you need something done properly, do it yourself.
 
+# The Blind Man and the Baby Wolf
+
+A blind man could tell different animals by touching them with his hands.
+
+A baby wolf was brought to him, and he touched it to guess what is was.
+
+> He said, "I don't know whether it is a baby fox or a baby wolf. 
+
+> But I know the sheep wouldn't be safe with it around!"
+
+MORAL: Evil(罪恶的）的signs are shown early in life.
+
+# The Boasting(吹嘘）Traveler
+
+A man who had travelled in foreign lands boasted of (吹嘘） the many wonderful and heroic things he had done in the different places he had visited.
+
+He said that when he was in Rhodes, he had jumped so far that no man at that time could jump nearly as far.
+
+He also said that many people saw him do it, and he could call them as witnesses.
+
+> One of the listeners said, "Now, if this be all true, there is no need for witnesses.  Let's pretend this is Rhodes - now do your jump!"
+
+MORAL: Stop a boaster(吹牛的人）by putting his words to the test(检验）。
+
+
+# 自助
+MORAL: Stop a boaster(吹牛的人）by putting his words to the test(检验
