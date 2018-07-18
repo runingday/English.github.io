@@ -60,9 +60,21 @@ He ran home and told his mother,
 
 MORAL: Whatever you do, do with all your strength.
 
+# The Boy and the Nuts
+
+A boy put his hand into a jar full of nuts. 
+
+He grabbed as many as he could, but when he tried to pull out his hand, he couldn't, because the neck of the jar wasn't wide enough.
+
+Not wanting to lose his nuts, and yet unable to take out his hand, he felt disappointed and started to cry.
+
+> Someone said to him, "Be satisfied with half the amount, and you will easily pull out your hand."
+
+MORAL: Do not attempt too much at once.
 
 
 
+# 熟词生
 
 
 
