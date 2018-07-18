@@ -46,5 +46,29 @@ He also said that many people saw him do it, and he could call them as witnesses
 MORAL: Stop a boaster(吹牛的人）by putting his words to the test(检验）。
 
 
-# 自助
-MORAL: Stop a boaster(吹牛的人）by putting his words to the test(检验
+# The Boy and the Nettle(荨麻）
+
+A boy was stung(刺） by a nettle(荨麻)
+
+He ran home and told his mother, 
+
+> "I only touched it gently, but it hurt me so much."
+
+> "That was just what caused it to sting(刺）you," said his mother.
+
+> " The next time you touch a nettle(荨麻), grab it tightly(紧紧地), and it will be as soft as silk to your hand, and will not hurt you."
+
+MORAL: Whatever you do, do with all your strength.
+
+
+
+
+
+
+
+
+
+
+
+
+
