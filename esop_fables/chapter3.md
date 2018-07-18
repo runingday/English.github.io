@@ -87,6 +87,91 @@ MORAL: Do not attempt too much at once.
 + /:lvu is the sign language for "I love you".
 这是表"我爱你”的手势语言
 
+### * * * *
+
+2 young
+【本文例句】
++ The bird said to her young, "It is time to go."
+这只鸟跟自己的孩子说："到时间该走了“。
+
+大家可能听过【the + 形容词】 表一类人的用法。
+本文中，her young 就是相似用法，表”幼崽、幼兽、幼鸟",英文释义为the babies of an animal. the young可表"年轻人们".
+### * * * *
+
+3. neck
+【本文例句】
++ The neck of the jar wasn't wide enough. 瓶颈开口不够大。
+nect 做名词表身体部位时，意思是”脖子“; 引申描述物件时，表”颈状部位、细长部分“。 明白了这样的拟人表达，那么cap表”笔帽、瓶盖“、foot表”床脚、山脚“就顺理成章了。
+
+【点睛例句】
++ the foot of the mountain 山脚
++ Put the cap back on the pen 给笔盖上笔帽. 
+
+### 短语句型
+
+1 help sb with sth 帮某人（做）某事
+【本文例句】
++ I must ask all my neighbors to help me with my harvest. 我必须让所有邻居都来帮我收割.
+当想表达”帮某人做某事“的时候，很难想到"help sb with sth”，因为这个短语中并没有表"做“的动作词. 
+看两个例子吧：
++ My husband always helps me in doing housework.
++ My husband always helps me with housework.
+有没有感觉到，第二个例句更为简洁呢？试着用用help sb with sth这个短语吧 ~~~
+
++ 我的父母帮我负担学费(tuition fee).
+My parents help me with the tuition fee.
+
+### * * * 
+
+2 be satisfied with 对...满意
+【本文例句】
++ Be satisfied with half the amount, and you will easily pull out your hand. 如果满意只抓一半的量，那么手很容易拿得出来.
+
+【亮点】
+satisfied 加上程序词，可以表达到底有多满意。
+特别满意 more than satisfied （比满意还满意的感觉）
+不太满意 far from satisfied （距离满意还有段距离呢）
+
+【点睛例句】
++ I'm sure that you'll be more than satisfied with our product. 我敢肯定你会非常满意我们的产品。
++ I'm far from satisfied with his explanation. 我对他的解释远达不到满意的程序。
+
+### * * * *
+
+3 It's good to do sth 做某事是很好的
+【本文例句】
++ sometimes it's good to be unimportant. 有时微不足道也是一种优势。
+
+【亮点】
+It's good to do sth, 表"做某事是很好的”。 其中，it没有意思，是英语中的形式主语;变换一下可以说To do sth is good. good的位置，可替换各种形容词，形成不同句型结构:
++ It's easy to learn English. 学英语很容易.
++ It's exciting to be part of the team. 成为团队一员让人激动.
+
+## 长句分析
+
+<pre>
+A man who had travelled in foreign lands boasted of the many wonderful and heroic things he had done in the different places he had visited. 
+boast v. 吹嘘、炫耀  heroic adj. 英雄的、英勇的
+</pre>
+
+A man, ('''who had travelled in foreign lands''')
+boasted of the many wonderful and heroic things
+(he had done in the different places[he had visited])
+
+Abc 句子主干（一个男人吹嘘很多令人惊叹的英雄事迹。）
+
+abc 修饰部分 1. 曾经去外国游历的（那个男人）
+    2. 他曾经在不同地方做的（事）
+    3. 他曾经去过的（地方）
+
+
+
+
+
+
+
+
+
 
 
 
