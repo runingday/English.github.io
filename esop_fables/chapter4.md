@@ -47,6 +47,24 @@ A hunter, seeing her weep(哭泣), stood at a distance and said to her,
 
 MORAL: We think about how others hurt us, but we don't think about how we hurt them.
 
+### The Bundle(捆) of Sticks
+
+An old man had three sons who were always arguing and fighting.
+
+To convince(说服) them to help and support each other， he ordered them to bring in a bundle of sticks,
+
+> and said to his eldest son, "Break it."
+
+The son tried and tried, but with all his efforts was unable to break the bundle(捆).
+
+j
+
+
+
+
+
+
+
 
 
 
