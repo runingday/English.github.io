@@ -57,6 +57,40 @@ MORAL: Better the evil you know that the one you don't know.
 
 ### The Crab(螃蟹) and Its Mother
 
-> A crab said to her son, "Why do you walk sideways(侧
-### The Crab(螃蟹) and Its Mother着
-### The Crab(螃蟹) and Its Mother
+> A crab said to her son, "Why do you walk sideways(侧着), my child? It is much better to walk straight forward."
+
+> The young crab replied, "True, dear mother. If you will show me how to do it, I will try to do that too."
+
+The mother tried to walk straight, but couldn't do it.
+
+MORAL: It's better to teach than simply to tell.
+
+
+### The Crow (乌鸦) and the Water Bottle
+
+A very thirsty crow saw a water bottle and flew to it, hoping to find water inside.
+
+He realized that there was too little water for him to reach to drink.
+
+He tried everything he could to reach the water, but failed.
+
+At last, he collect as many stones as he could carry, and dropped them one by one into the bottle, until the water level was high enough for him to drink. 
+
+MORAL: Necessity(需求,必需品) is the mother of invention. (创造，发明)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
