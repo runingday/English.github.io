@@ -44,3 +44,19 @@ When the bride saw this, she jumped up and tried to catch the mouse.
 
 MORAL: Try as you may, it is impossible to deny your nature.
 
+
+### The Cows and the Butchers (屠夫)
+
+The cows once decided to kill the butchers, whose job was to kill them.
+
+They got together one day, and prepared to fight.
+
+> One of the oldest then said, "It is true that these butchers kill us, but they do that with skillful hands, and give us little pain. If we kill them all, we'll suffer more under unskillfull(不熟练的)hands. You can be sure that even if all the butchers die, men will still want beef."
+
+MORAL: Better the evil you know that the one you don't know.
+
+### The Crab(螃蟹) and Its Mother
+
+> A crab said to her son, "Why do you walk sideways(侧
+### The Crab(螃蟹) and Its Mother着
+### The Crab(螃蟹) and Its Mother
