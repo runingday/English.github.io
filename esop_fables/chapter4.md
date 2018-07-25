@@ -57,7 +57,22 @@ To convince(说服) them to help and support each other， he ordered them to br
 
 The son tried and tried, but with all his efforts was unable to break the bundle(捆).
 
-j
+The other sons also tried, but none of them was successful.
+
+> "Untie the bundle," said the father, "and each of you take a stick."
+
+When they had done so, he called out to them,
+
+> "Now, break," and each stick was easily broken.
+
+> "You see my meaning?" said their father. 
+
+MORAL: Unity is strength.
+
+### The Calf(牛犊） and the Ox
+A calf saw an ox hard at work, and teased(取笑) him about his unhappy life of labor.
+
+Shortly after, the farmer 
 
 
 
