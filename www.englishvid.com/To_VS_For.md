@@ -18,5 +18,16 @@
 1. invite someone to a party. (event)  
 2. invite someone for dinner   (thing)   invite someone for a dinner party( event)
 
-1. What did you do to him?
-2. What did you do for him?
+1. What did you do to him?    (direction action) yelled at him.
+2. What did you do for him?   (on behalf) took his test for him
+
+#### as complement
+To make a perfect caesar(a drink)
+For a perfect caesar
+
+
+be used to -- familiar / comfortable/purpose  (this mark is used to write)
+for  use,purpose. this mark is used for writing. 
+
+![Image of test](https://github.com/runingday/English.github.io/blob/master/images/WX20180906-114203%402x.png)
+![Image of test2](https://github.com/runingday/English.github.io/blob/master/images/WX20180906-114231%402x.png)
